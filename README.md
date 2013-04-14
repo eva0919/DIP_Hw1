@@ -2,9 +2,9 @@ DIP Homework Assignment #1 <br />
 ---
 Mar. 21, 2013<br />
 compiled on ubuntu 12.04 with gcc and Mac 10.7.5 with Xcode<br />
+<br />
+<br />
 define your compiler and linker<br />
-<br />
-<br />
 Use Makefile with using command "make"<br />
 would compiled all file into executable file <br />
 No extra file need include into my code<br />

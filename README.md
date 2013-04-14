@@ -1,7 +1,7 @@
-###DIP Homework Assignment #1 <br />
+DIP Homework Assignment #1 <br />
+---
 Mar. 21, 2013<br />
 compiled on ubuntu 12.04 with gcc and Mac 10.7.5 with Xcode<br />
----
 define your compiler and linker<br />
 <br />
 <br />

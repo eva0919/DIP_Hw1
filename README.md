@@ -1,16 +1,16 @@
- DIP Homework Assignment #1 
+DIP Homework Assignment #1 
 ===
-## Mar. 21, 2013
+Mar. 21, 2013
 ===
-## Name: 陳昱安 Yu-An Chen
+Name: 陳昱安 Yu-An Chen
 ===
-## ID #: B98705024
+ID #: B98705024
 ===
-## email: b98705024@ntu.edu.tw
+email: b98705024@ntu.edu.tw
 ===
-## compiled on ubuntu 12.04 with gcc and Mac 10.7.5 with Xcode
+compiled on ubuntu 12.04 with gcc and Mac 10.7.5 with Xcode
 ===
-## define your compiler and linker
+define your compiler and linker
 ===
 
 Use Makefile with using command "make"<br/>
